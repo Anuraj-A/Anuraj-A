@@ -41,14 +41,17 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
+    "Python",
+    "AI",
+    "Quantum Computing",
     "UI/UX",
     "Game Development",
     "DevOps",
   ]
   
-currently_learning: ["React JS"]
+currently_learning: ["React JS", "Quantum Computing"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Cricket", "Gaming"]
+hobbies: ["Cricket", "Gaming", "Coding"]
 ```
   
 ---  
