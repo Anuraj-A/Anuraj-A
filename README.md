@@ -76,10 +76,23 @@ hobbies: ["Cricket", "Gaming", "Coding"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>  
 </p>
 
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anuraj-A&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraj-A&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div align="center">
+  <blockquote>
+    <p style="font-family: 'Georgia', serif; font-size: 1.5em; color: black; font-style: italic; font-weight: bold;">
+      "Talk is cheap. Show me the code." – Linus Torvalds
+    </p>
+  </blockquote>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
